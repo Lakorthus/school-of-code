@@ -61,8 +61,8 @@
 **Exercises**
 
 _Haiku_
-Is soc magnificent?
-Chris Meah asserts exactly so?!
+Soc magnificent?
+Chris Meah asserts exactly?!
 So does the SoC team!
 
 _[Css Selectors](https://flukeout.github.io)_
