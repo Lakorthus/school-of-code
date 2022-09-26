@@ -4,10 +4,11 @@
 
   'Your imagination is the limit in what you can do with code' - Chris Meah.
 
-- Team SOC Bootcamp 13:
-![plot](./img/team.png)
+- Team SOC Bootcamp 13
+  ![plot](./img/team.png)
 
 - Hero Path
+
 ![plot](./img/hero_journey.png)
 
 - National Bootcamp Curriculum:
@@ -28,24 +29,26 @@
 
   9. Real-world project week.
 
-  10. - Retrospectives and deployment - Learning from project experiences and Agile best practices, plus deploying projects with the cloud.
-      - Active recruitment prep - getting ready with everything you'll need to join the recruitment process at the end of the course.
+  10. 
 
-  11.
+  - Retrospectives and deployment - Learning from project experiences and Agile best practices, plus deploying projects with the cloud.
+  - Active recruitment prep - getting ready with everything you'll need to join the recruitment process at the end of the course.
+
+  11. 
   12. Adding depth to understanding - Going deeper into advanced computer science and software engineering concepts.
 
   13. Start of the four-week final project - Working in teams and layering in more knowledge and skills through targeted sessions.
 
-  14.
-  15.
+  12. 
+  13. 
   16. Final projects finish - You'll have created your best work yet, and have learned a lot along the way.
 
   17. Career Launchpad - Presenting final projects to employers and support from the recruitment team into interviews and job roles, alongside support from the coaching team and fellow boot campers to continue your learning.
 
-  18. For Life: School of Code Community - You'll have made friends for life, gained a professional network that would've taken a lifetime to build, and you'll be part of the most supportive community around!
+  18.For Life: School of Code Community - You'll have made friends for life, gained a professional network that would've taken a lifetime to build, and you'll be part of the most supportive community around!
 
 - How is this path different from other Bootcamps/University/Self-taught Paths?
-![plot](./img/support.png)
+  ![plot](./img/support.png)
 
 - You need to be a learning athlete
 
@@ -72,50 +75,45 @@ _[Css Selectors](https://flukeout.github.io)_
 
 - How to solve problems the SOC way:
 
-  1. Understand the problem
-     Team question: 'Why is this important?'
-     Team answer: 'To have a deeper understand of the root of the cause and think different angles about how to solve them'
-  2. Breaking down the problem
-     Team question: 'Why is this important?'
-     Team answer: 'Is easier to break in little parts to tackle the attack'
-     ![plot](./img/break_problem.png)
+  1.Understand the problem
+  Team question: 'Why is this important?'
+  Team answer: 'To have a deeper understand of the root of the cause and think different angles about how to solve them'
+  2.Breaking down the problem
+  Team question: 'Why is this important?'
+  Team answer: 'Is easier to break in little parts to tackle the attack'
+  ![plot](./img/break_problem.png)
 
-  3. Looking for patterns
-     Team question: 'Why is this important?'
-     Team answer: 'Predict what can happen and develop a faster solution for problems
+  3.Looking for patterns
+  Team question: 'Why is this important?'
+  Team answer: 'Predict what can happen and develop a faster solution for problems
 
-  4. Model Real world
-     Team question: 'Why is this important?'
-     Team answer: 'How: Variables, can be taken from the real world.
-     Why: To prevent or solve a problem or improve a solution.'
+  4.Model Real world
+  Team question: 'Why is this important?'
+  Team answer: 'How: Variables, can be taken from the real world.
+  Why: To prevent or solve a problem or improve a solution.'
 
-  5. Algorithm
-     Team question: 'Why is this important?'
-     Team answer: 'A step-by-step procedure for solving a problem or accomplishing some end.
+  5.Algorithm
+  Team question: 'Why is this important?'
+  Team answer: 'A step-by-step procedure for solving a problem or accomplishing some end.
 
-     An algorithm gives the computer a specific set of instructions, allowing it to do everything, from running a calculator to landing on the moon.'
+  An algorithm gives the computer a specific set of instructions, allowing it to do everything, from running a calculator to landing on the moon.'
 
-  6. Program the solution
+  6.Program the solution
 
 - A guide to SOC thinking once a week
 
-  1.  Feedback
-      Team question: 'Why is this important?'
-      Team answer: ' Feedback is the best way to keep on track of tasks critical to advance and improve.'
+  1.Feedback
+  Team question: 'Why is this important?'
+  Team answer: ' Feedback is the best way to keep on track of tasks critical to advance and improve.'
 
-    ![plot](./img/feedback.png)
+  ![plot](./img/feedback.png)
 
-    
+  2.Trade-offs and Critical Thinking
+  [File transfer time calculator](https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/)
 
-  2.  Trade-offs and Critical Thinking
-      [File transfer time calculator](https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/)
+  3.Self Management
 
-  3.  Self Management
-
-  4.  Effective Teams
-      - Cognitive Diversity
-      - Comfortable being uncomfortable
-      - Learning how to learn
+  4.Effective Teams - Cognitive Diversity - Comfortable being uncomfortable - Learning how to learn
 
 **Exercise**
 
@@ -158,9 +156,9 @@ _Evgenii_
 - Do you like surprises?
 
 - What are your hobbies?
-    Hiking, Friday out, going to the gym, he used to play the piano, we were thinking of forming a band. 
+  Hiking, Friday out, going to the gym, he used to play the piano, we were thinking of forming a band.
 
-    Is anyone up for it? 🎸🎹
+  Is anyone up for it? 🎸🎹
 
 - Where is the furthest away from home you have been?
 
