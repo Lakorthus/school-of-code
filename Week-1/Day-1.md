@@ -5,9 +5,10 @@
   'Your imagination is the limit in what you can do with code' - Chris Meah.
 
 - Team SOC Bootcamp 13:
+![plot](./img/team.png)
 
 - Hero Path
-  (pdf)
+![plot](./img/hero_journey.png)
 
 - National Bootcamp Curriculum:
 
@@ -44,6 +45,7 @@
   18. For Life: School of Code Community - You'll have made friends for life, gained a professional network that would've taken a lifetime to build, and you'll be part of the most supportive community around!
 
 - How is this path different from other Bootcamps/University/Self-taught Paths?
+![plot](./img/support.png)
 
 - You need to be a learning athlete
 
@@ -76,7 +78,7 @@ _[Css Selectors](https://flukeout.github.io)_
   2. Breaking down the problem
      Team question: 'Why is this important?'
      Team answer: 'Is easier to break in little parts to tackle the attack'
-     [pdf]
+     ![plot](./img/break_problem.png)
 
   3. Looking for patterns
      Team question: 'Why is this important?'
@@ -101,12 +103,13 @@ _[Css Selectors](https://flukeout.github.io)_
       Team question: 'Why is this important?'
       Team answer: ' Feedback is the best way to keep on track of tasks critical to advance and improve.'
 
-          [pdf]
+    ![plot](./img/feedback.png)
 
-          Team feedback about me:
+    
 
   2.  Trade-offs and Critical Thinking
       [File transfer time calculator](https://www.expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/)
+
   3.  Self Management
 
   4.  Effective Teams
