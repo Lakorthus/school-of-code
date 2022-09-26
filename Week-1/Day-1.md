@@ -29,12 +29,11 @@
 
   9.- Real-world project week.
 
-  10.
-  - Retrospectives and deployment - Learning from project experiences and Agile best practices, plus deploying projects with the cloud.
+  10.- Retrospectives and deployment - Learning from project experiences and Agile best practices, plus deploying projects with the cloud.
+  
   - Active recruitment prep - getting ready with everything you'll need to join the recruitment process at the end of the course.
 
-  11.
-  12.- Adding depth to understanding - Going deeper into advanced computer science and software engineering concepts.
+  11.-12.- Adding depth to understanding - Going deeper into advanced computer science and software engineering concepts.
 
   13.- Start of the four-week final project - Working in teams and layering in more knowledge and skills through targeted sessions.
 
@@ -51,11 +50,11 @@
 
 - You need to be a learning athlete
 
-  1. Focus.
-  2. Healthy body, healthy mind, great learning.
-  3. Humility.
-  4. Motivation.
-  5. Resilience.
+  1.- Focus.
+  2.- Healthy body, healthy mind, great learning.
+  3.- Humility.
+  4.- Motivation.
+  5.- Resilience.
 
 
 
