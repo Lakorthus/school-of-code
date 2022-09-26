@@ -140,7 +140,7 @@ _[Css Selectors](https://flukeout.github.io)_
     - Balance my life.
 
 **Team pairs:**
-_Evgenii_
+_[Evgenii](https://github.com/itsevgenii)_
 
 - What did you do before School of Code?
 
