@@ -32,3 +32,13 @@ _[Rap](https://www.youtube.com/watch?v=t8eQjr9JGM8)_
  In JavaScript ' = ' is the Pointer symbol.
 
  Js and Vscode Exercise
+
+ Team Exercises 
+
+ **Evennig**
+
+ Functions
+
+ **Energizer**
+
+ - Winner was Martha

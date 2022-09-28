@@ -1,5 +1,5 @@
 // Run one time
-let enterToTheBar = () => {
+function enterToTheBar(){
   let yourAge = prompt("What is your Age?");
   let customer;
 
