@@ -19,15 +19,17 @@
 **JavaScript**
 _[Rap](https://www.youtube.com/watch?v=t8eQjr9JGM8)_
 
- ![plot]()
- ![plot]()
+ ![plot](./img/12.png)
+ ![plot](./img/13.png)
 
  - Undifined = 'Not value added' 
  - Null = 'Value of nothing'
  - Object
  - Functions
 
- ![plot]()
+ ![plot](./img/14.png)
+ ![plot](./img/15.png)
+ ![plot](./img/16.png)
  
  In JavaScript ' = ' is the Pointer symbol.
 
@@ -37,8 +39,11 @@ _[Rap](https://www.youtube.com/watch?v=t8eQjr9JGM8)_
 
  **Evennig**
 
- Functions
+ - Functions
 
- **Energizer**
+ - Energize winner was Martha
 
- - Winner was Martha
+**TeamGroups**
+
+- js1
+- js2
