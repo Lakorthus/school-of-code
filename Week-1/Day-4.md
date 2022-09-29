@@ -77,4 +77,6 @@
 
     - Strigns: `${}` Was introduce as string interpolation.
 
-- Objects
+- Creating Objects and nested Objects
+
+- Arrays
