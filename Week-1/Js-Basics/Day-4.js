@@ -1,6 +1,9 @@
 // OBJECtTS
 
-let createCat = { catBreed: "Stray Cat", catColor: "Black"};
+let createCat = {
+  catBreed: "Stray Cat",
+  catColor: "Black",
+};
 
-createCat.catBreed = 'Italian'
+createCat.catBreed = "Italian";
 console.log(createCat);
