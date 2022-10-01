@@ -7,7 +7,8 @@
     - Talk about the importance feedbacks.
 
     - Johari window
-    [pdf]
+     ![plot](./img/17.png)
+
     
     - Article opinion: Benjamin Puusta
     "
@@ -15,9 +16,10 @@
     "
 
     - More documentation [Human Learning](https://www.humanlearning.systems/)
+     ![plot](./img/18.png)
 
     - LAER model
-    [pdf]
+     ![plot](./img/19.png)
 
     - Activity PERSONAL GUIDELINES FOR SEEKING & RECEIVING FEEDBAC
 
@@ -67,7 +69,8 @@
 
         - Don not let your ego mess with you.
 
-
+    ![plot](./img/20.png)
+    ![plot](./img/21.png)
 
 - Recap Fast-forward
     
@@ -80,3 +83,5 @@
 - Creating Objects and nested Objects
 
 - Arrays
+
+ ![plot](./img/22.png)
